@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Citi</string>
+    <string name="splash_text_citi">Citi</string>
+
+    <string name="login_text_hint_email">Correo electrónico</string>
+    <string name="login_text_hint_password">Contraseña</string>
+    <string name="login_text_btn_recover_password"><u>Solicitar nueva contraseña</u></string>
+    <string name="login_text_btn_ingresar">Ingresar</string>
+    <string name="login_text_bottom_citi">Citi</string>
+    <string name="login_text_invalid_email_and_password">El correo electrónico y la contraseña son inválidos</string>
+    <string name="login_text_invalid_email">El correo electrónico es inválido</string>
+    <string name="login_text_invalid_password">La contraseña es incorrecta</string>
+    <string name="home_title_citi">Citi</string>
+    <string name="title_activity_home_citi">MainActivity</string>
+    <string name="title_stores">Sucursales</string>
+    <string name="title_cities">Ciudades</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_text_my_location">Mi ubicación</string>
+    <string name="maps_text_get_location">Obteniendo ubicación..</string>
+</resources>
